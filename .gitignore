@@ -3,3 +3,4 @@ __pycache__/
 *.pyc 
 .ipynb_checkpoints/Cheminformatics Start-checkpoint.ipynb
 untitled.txt
+anaconda_projects/db/project_filebrowser.db
